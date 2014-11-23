@@ -54,4 +54,4 @@ The R script does the following:
 - The function is separated into modules in case you need to change or debug any piece of the code.
 
 [Full Data]:http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-[Project Data]:ttps://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+[Project Data]:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
